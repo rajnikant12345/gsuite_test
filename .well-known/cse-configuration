@@ -1,6 +1,6 @@
 {
-“ name ” : “ CSE IDP ”,
-“ client_id ” : “ aklncxo09235xd ”,
-“ discovery_uri ” : “https://idp.com/.well-known/openid-configuration”,
-“ audience ” : “ cse-test ”
+"name":"CSE IDP",
+"client_id":"aklncxo09235xd",
+"discovery_uri":"https://idp.com/.well-known/openid-configuration",
+"audience":"cse-test"
 }
